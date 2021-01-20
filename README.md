@@ -1,6 +1,6 @@
 # Surfstore
 
-This is the starter code for Module 3: Surfstore.  Before you get started, make
+This is the CSE224 Module 3: Surfstore.  Before you get started, make
 sure you understand the following 2 things about Go. (These will also be
 covered in class and in discussions)
 
